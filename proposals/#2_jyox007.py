@@ -1,4 +1,5 @@
-#Issue number 2, reducing number of telementry attributes
+# Issue number 2 
+#reducing number of telementry attributes
 import pandas as pd
 import numpy as np
 df = pd.read_csv('device_failure.csv', na_values=' ')
